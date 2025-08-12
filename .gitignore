@@ -1,0 +1,9 @@
+# Compiled Java class files
+*.class
+
+# Model files
+*.model
+
+# IDE-specific files
+.idea/
+*.iml
